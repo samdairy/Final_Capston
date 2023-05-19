@@ -1,0 +1,39 @@
+body {
+    background-color: rgb(210, 225, 218);
+  }
+  
+  h1 {
+    color: white;
+    text-align: center;
+  }
+  
+  p {
+    font-family: verdana;
+    font-size: 20px;
+  }
+
+
+
+
+
+
+
+/* profile sections */
+
+.hero-section{
+    height: 100vh;
+    background-image:linear-gradient(to right bottom, rgba(106, 140, 163, 0.7), rgba(142, 99, 147, 0.6)), url(../images/davide-cantelli-jpkfc5_d-DI-unsplash.jpg);
+    background-size: cover;
+    background-position: 45% 55%;
+   
+}
+
+
+.header-text{
+    display:flex;
+    justify-content: center;
+    padding-top: 5%;
+    right: 40rem;
+    top: 60rem;
+    color: white;
+}
